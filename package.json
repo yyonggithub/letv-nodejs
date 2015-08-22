@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "preinstall": "npm install",
     "postinstall": "bower install && tsd install",
     "start": "node ./bin/www"
   },
