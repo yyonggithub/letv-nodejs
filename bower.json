@@ -1,0 +1,29 @@
+{
+  "name": "letv-nodejs",
+  "version": "0.0.1",
+  "authors": [
+    "yyonggithub <coolfish2004@hotmail.com>"
+  ],
+  "description": "letv-nodejs",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "letv-nodejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "artTemplate": "https://github.com/aui/artTemplate.git#~3.0.1",
+    "bootstrap": "~3.3.5",
+    "jquery": "1.9.1",
+    "requirejs": "~2.1.20"
+  }
+}
